@@ -11,10 +11,6 @@ It builds on the [coauthorship exercise](https://www.arj.no/2023/06/02/coauthors
 3. The follow-up case, read aloud (10 minutes in the same groups).
 4. Plenary: each group gives its author list and its disclosure statement in one minute, then the debrief prompts (15 minutes).
 
-## Follow-up: Human–Computer Improv
-
-After the discussion, a 30-minute improvisation on phones turns the same questions into music: see [Human–Computer Improv](improv.md).
-
 ## Results from the first run
 
 Twelve groups answered the case at Sandbjerg on 23 November 2026: see [What the groups said](synthesis.md) for the counts and a set of collective answers.

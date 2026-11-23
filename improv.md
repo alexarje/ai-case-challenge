@@ -25,6 +25,16 @@ The idea follows from the case: four rounds in which the machine listens, learns
 | 17.53 | 4. The machine steps back, 4 min | [Standstill](https://fourms.github.io/omo/apps/standstill/) | Everyone stands, phone to the chest; sound blooms only when you are still, and any movement silences it. One short heat, eyes closed if you like | Now who is performing? |
 | 17.57 | Close, 3 min | | Back to the case: the drum model, the performer on the recording, and what should be credited | |
 
+## The performance
+
+After the rounds, one piece for the whole room with five instruments in turn. Each link opens the app directly.
+
+1. [Pinch Bass](https://fourms.github.io/omo/apps/pinch-bass/): spread or pinch two fingers for level and resonance; one finger sets pitch and cutoff. The bass line, slow and low.
+2. [Green Button](https://fourms.github.io/omo/apps/green-button/): hold the green circle to swell in, drag inside it for vibrato, let go to fade. A swarm that comes in and out one by one.
+3. [Tap Bloom](https://fourms.github.io/omo/apps/tap-bloom/): tap, higher on the screen for higher notes; each bloom repeats every four seconds. Sparse, thicker, then thin again.
+4. [Firefly](https://fourms.github.io/omo/apps/firefly/): set a tempo and tap Start; the phones listen to each other and pull into one pulse. Phones down until the room locks.
+5. [Standstill](https://fourms.github.io/omo/apps/standstill/): stand, phone to the chest; sound blooms only when you are still, and any motion silences it. The ending.
+
 ## If something fails
 
 - No sound: Audio on (top right), raise the phone volume, silent mode off; on iPhone, tap the screen once.

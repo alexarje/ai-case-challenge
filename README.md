@@ -15,6 +15,10 @@ It builds on the [coauthorship exercise](https://www.arj.no/2023/06/02/coauthors
 
 After the discussion, a 30-minute improvisation on phones turns the same questions into music: see [Human–Computer Improv](improv.md).
 
+## Results from the first run
+
+Twelve groups answered the case at Sandbjerg on 23 November 2026: see [What the groups said](synthesis.md) for the counts and a set of collective answers.
+
 ## The case
 
 A three-centre project studies how groove is felt in the body and the brain during live concerts. The team first records two pilot concerts in the lab, then collects the main data at a public concert.

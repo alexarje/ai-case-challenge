@@ -11,6 +11,10 @@ It builds on the [coauthorship exercise](https://www.arj.no/2023/06/02/coauthors
 3. The follow-up case, read aloud (10 minutes in the same groups).
 4. Plenary: each group gives its author list and its disclosure statement in one minute, then the debrief prompts (15 minutes).
 
+## Follow-up: Human–Computer Improv
+
+After the discussion, a 30-minute improvisation on phones turns the same questions into music: see [Human–Computer Improv](improv.md).
+
 ## The case
 
 A three-centre project studies how groove is felt in the body and the brain during live concerts. The team first records two pilot concerts in the lab, then collects the main data at a public concert.
